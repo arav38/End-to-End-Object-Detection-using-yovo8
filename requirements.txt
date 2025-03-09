@@ -1,0 +1,44 @@
+dill==0.3.5.1
+from-root==1.0.2
+notebook==7.0.0a7
+gdown
+flask-cors
+flask
+
+#yolo requirment
+
+gitpython >= 3.1.10
+matplotlib >=3.3
+numpy>=1.18
+opencv-python>=4.1.1
+Pillow>=7.1.2
+psutil      #system resource
+PyYAML>=5.3.1
+requests>=2.23.0
+scipy>=1.4.1
+thop>=0.1.1  #flop computation
+torch>=1.7.0 
+torchvision>=0.8.1
+tdqm
+ultralytics>=8.0.111
+
+# loggingin
+
+tensorboard>=2.4.1
+
+
+# Plotting
+
+pandas>=1.1.4
+seaborn>=0.11.0
+
+# deploy
+setuptools>=65.5.1
+
+from_root
+gdown
+flask_cors
+Flask Werkzeug
+
+
+-e .

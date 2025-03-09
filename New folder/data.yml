@@ -1,0 +1,6 @@
+
+train: ../train/images
+val: ../test/images
+
+nc: 2 
+names: ['roof damage','roof wooden damage',Metal Chimini Damage,Brick Chimini Damage]

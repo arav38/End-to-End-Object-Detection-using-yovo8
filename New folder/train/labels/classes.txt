@@ -1,0 +1,8 @@
+roof-wooden damage
+roof-right top wooden damage
+roof wooden damage
+Roof Medal damage
+Roof Wooden damage
+Brick Chimni damage
+Metal Chimni damage
+rood mid wooden damage
